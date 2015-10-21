@@ -5,6 +5,7 @@ fix up the askblue vagrant box | id:5b75211b5b631cf2bb16d994cedfe5a94a102c25
 look into why the bedrock autoloader doesn't work with wpengine-common | id:68935be1c3b5e31f66f72d87606a1b803425408d
 Finish moving javascript and css files around on the oomph website | id:7c064818e14aa111f6d41be88752588340d09dfc
 BLUEALLY-121 write unit tests | priority:3, id:7e58b3a485cfa6fc4fa9c3646ad394ebe3850856
+make a custom timetrap formatter for jira | id:8264bfe23334aa5acd59d218580c74eede553cd4
 BMAS-122 remove the "Posted In:" | priority:1, id:883be294ab75d599ba552c554ba8ede6a3036557
 update the confluence page for bcmedia | id:8b8d4d2328e081a135690919d54136e3f20127bc
 fix the typos in the askblueinsurance.com readme | priority:10, id:e61dd5f4bf8e2ab3c447ada98f3c94d0e80aadac
