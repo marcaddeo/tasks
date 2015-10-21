@@ -7,6 +7,5 @@ Finish moving javascript and css files around on the oomph website | id:7c064818
 BLUEALLY-121 write unit tests | priority:3, id:7e58b3a485cfa6fc4fa9c3646ad394ebe3850856
 BMAS-122 remove the "Posted In:" | id:883be294ab75d599ba552c554ba8ede6a3036557
 update the confluence page for bcmedia | id:8b8d4d2328e081a135690919d54136e3f20127bc
-BCALLY-63 add autop to sponsored content entries | priority:1, id:aba9766e5beea211463e3848072bef2823d57266
 fix the typos in the askblueinsurance.com readme | priority:10, id:e61dd5f4bf8e2ab3c447ada98f3c94d0e80aadac
 work on tracking idle time when my computer sleeps | priority:8, id:f24e33d4ec24ea6f6716e8dce47e1ce83492e226
