@@ -1,5 +1,6 @@
 OWR-255 push changes to production | priority:1, id:34f2a5a7a29cedf00a7f2d38eeecbc3cf2912d9f
 ABALLY-64 update copy on contact page | priority:1, id:593ca9756976db1f4f6343c883813c98d06ab2a5
+fix the image path on bcmedia stylesheets | priority:1, id:67e0ab2e7c44690689c33d15b0678d245633205e
 BCALLY-69 estimate | priority:1, id:74f7bde4aaa8981e0cef046579bca66c6862f544
 BMAS-127 setup staging site | priority:2, id:7e03a766c5ca18ec198770995572a8f966dc55b4
 BMAS-122 remove the "Posted In:" | priority:1, id:883be294ab75d599ba552c554ba8ede6a3036557
