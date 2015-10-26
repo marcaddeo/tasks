@@ -1,6 +1,6 @@
 setup the provlib.org site | priority:10, id:2ad8808ebe17ec0965025976e3aacfcb87c1226a
 fix up the askblue vagrant box | id:5b75211b5b631cf2bb16d994cedfe5a94a102c25
-fix the image path on bcmedia stylesheets | id:67e0ab2e7c44690689c33d15b0678d245633205e
+fix the image path on bcmedia stylesheets | priority:1, id:67e0ab2e7c44690689c33d15b0678d245633205e
 look into why the bedrock autoloader doesn't work with wpengine-common | id:68935be1c3b5e31f66f72d87606a1b803425408d
 Finish moving javascript and css files around on the oomph website | id:7c064818e14aa111f6d41be88752588340d09dfc
 BLUEALLY-121 write unit tests | priority:3, id:7e58b3a485cfa6fc4fa9c3646ad394ebe3850856
