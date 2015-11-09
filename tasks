@@ -1,6 +1,5 @@
 setup the provlib.org site | priority:10, id:2ad8808ebe17ec0965025976e3aacfcb87c1226a
 add an xkcd widget to teamstream | id:2b221472cc791c6f7edd38808ab0d9ffb9b92bc2
-Review the notes for BCBS3-7 before Thursday | priority:3, id:3684267ee3cb0aa485006b673fb00dd06656bd97
 Need to fix the issues with BCM vagrant install: downgrade to mysql 5.5, check if i can switch back to puphpet/xxx instead of oomphinc/xxx, actually install the mysql fil... DOH | id:51fda1af7e9ae174855e29047a4d910cd167c79d
 fix up the askblue vagrant box | id:5b75211b5b631cf2bb16d994cedfe5a94a102c25
 look into why the bedrock autoloader doesn't work with wpengine-common | id:68935be1c3b5e31f66f72d87606a1b803425408d
